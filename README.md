@@ -1,0 +1,2 @@
+# bol
+for tea testnet
